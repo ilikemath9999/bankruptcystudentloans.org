@@ -174,15 +174,15 @@ a:focus-visible,button:focus-visible{outline:2px solid #60a5fa;outline-offset:2p
 
 <nav class="nav" role="navigation" aria-label="Site navigation">
   <a href="/" class="brand">bankruptcystudentloans.org</a>
-  <button class="hamburger" aria-label="Toggle navigation menu" onclick="document.querySelector('.nav-links').classList.toggle('open')">&#9776;</button>
+  <button class="hamburger" aria-label="Toggle navigation menu" aria-expanded="false" onclick="var n=this.nextElementSibling;var open=n.classList.toggle('open');this.setAttribute('aria-expanded',open);">&#9776;</button>
   <div class="nav-links">
-    <a href="/" class="active">Overview</a>
+    <a href="/" class="active">Home</a>
     <a href="/brunner-test.html">Brunner Test</a>
-    <a href="/doj-guidance.html">DOJ Guidance</a>
-    <a href="/adversary-proceeding.html">How to File</a>
-    <a href="https://523a.org">Section 523(a)(8)</a>
-    <a href="https://1328f.com">Discharge Screener</a>
-    <a href="https://1328f.org">Research</a>
+    <a href="/undue-hardship.html">Undue Hardship</a>
+    <a href="/chapter-13-student-loans.html">Chapter 13</a>
+    <a href="/private-loans.html">Private Loans</a>
+    <a href="/recent-changes.html">Recent Changes</a>
+    <a href="/adversary-proceeding.html">Options</a>
   </div>
 </nav>
 
