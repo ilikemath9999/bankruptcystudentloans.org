@@ -5,18 +5,19 @@
 bankruptcystudentloans.org is part of the Open Bankruptcy Project (openbankruptcyproject.org), a 501(c)(3) nonprofit building free, open-source tools for bankruptcy court transparency.
 
 ## Key Pages
-- How to File an Adversary Proceeding for Student Loan Discharge (2026) -- Student Loans: https://bankruptcystudentloans.org/adversary-proceeding.html
-- The Brunner Test: How Courts Decide Student Loan Discharge -- Student Loans: https://bankruptcystudentloans.org/brunner-test.html
+- How to File an Adversary Proceeding for Student Loan Discharge (2026) - Student Loans: https://bankruptcystudentloans.org/adversary-proceeding.html
+- The Brunner Test: How Courts Decide Student Loan Discharge - Student Loans: https://bankruptcystudentloans.org/brunner-test.html
 - Student Loans in Chapter 13 Bankruptcy (2026): https://bankruptcystudentloans.org/chapter-13-student-loans.html
+- Student Loans & Bankruptcy FAQ - Discharge and Hardship Options: https://bankruptcystudentloans.org/frequently-asked-questions.html
 - Income-Driven Repayment vs Bankruptcy for Student Loans (2026): https://bankruptcystudentloans.org/income-driven-repayment.html
 - Student Loans in Bankruptcy: Can You Discharge Them? (2026 Guide): https://bankruptcystudentloans.org/
-- Parent PLUS Loans in Bankruptcy -- Discharge Options (2026) -- Student Loans: https://bankruptcystudentloans.org/parent-plus.html
+- Parent PLUS Loans in Bankruptcy - Discharge Options (2026) - Student Loans: https://bankruptcystudentloans.org/parent-plus.html
 - Discharging Private Student Loans in Bankruptcy: https://bankruptcystudentloans.org/private-loans.html
-- Student Loan Bankruptcy Changes 2024-2026 -- Student Loans: https://bankruptcystudentloans.org/recent-changes.html
-- Student Loan Discharge in Bankruptcy: Brunner Test and New DOJ Guidance [2026] -- Student Loans: https://bankruptcystudentloans.org/student-loan-discharge.html
-- Undue Hardship Standard for Student Loan Discharge (2026) -- Student Loans: https://bankruptcystudentloans.org/undue-hardship.html
-- Student Loans & Bankruptcy FAQ -- Discharge and Hardship Options: https://bankruptcystudentloans.org/frequently-asked-questions.html
-- Student Loan Repayment vs Bankruptcy Discharge -- Comparison: https://bankruptcystudentloans.org/repayment-vs-discharge.html
+- Student Loan Bankruptcy Changes 2024-2026 - Student Loans: https://bankruptcystudentloans.org/recent-changes.html
+- Student Loan Repayment vs Bankruptcy Discharge - Comparison: https://bankruptcystudentloans.org/repayment-vs-discharge.html
+- Student Loan Discharge in Bankruptcy: Brunner Test and New DOJ Guidance [2026] - Student Loans: https://bankruptcystudentloans.org/student-loan-discharge.html
+- Undue Hardship Standard for Student Loan Discharge (2026) - Student Loans: https://bankruptcystudentloans.org/undue-hardship.html
+- Privacy Policy: https://bankruptcystudentloans.org/privacy.html
 
 ## Contact
 - Website: https://openbankruptcyproject.org
